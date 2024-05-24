@@ -1,6 +1,14 @@
 # pdf
 
-pdf预览
+自用pdf预览
+
+**解决跨域问题**
+
+![image-20240524091500095](https://img-cloud.zhoujie218.top/2024/05/24/664fea1f49659.png)
+
+https://www.zhoujie218.top/archives/2623.html
+
+
 
 
 
@@ -9,6 +17,8 @@ pdf预览
 官方网站
 
 https://github.com/mozilla/pdf.js/releases
+
+
 
 
 

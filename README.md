@@ -26,7 +26,7 @@ https://github.com/mozilla/pdf.js/releases
 
 **alist调用**
 
-https://pdfg.zhoujie218.top/web/viewer.html
+https://pdf-alist.zhoujie218.top/web/viewer.html
 
 
 
@@ -37,7 +37,7 @@ https://pdfg.zhoujie218.top/web/viewer.html
 		"Google":"https://docs.google.com/gview?url=$e_url&embedded=true"
 	},
 	"pdf": {
-		"PDF.js":"https://pdfg.zhoujie218.top/web/viewer.html?file=$e_url"
+		"PDF.js":"https://pdf-alist.zhoujie218.top/web/viewer.html?file=$e_url"
 	}
 }
 ```
